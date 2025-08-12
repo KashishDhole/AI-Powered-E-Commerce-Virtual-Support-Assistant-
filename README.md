@@ -1,4 +1,4 @@
-# Project Title : Ecommerce Support Chatbot
+# Project Title : AI-Powered E-Commerce Virtual Support Assistant 
 
 ## Project Overview
 The Ecommerce Support Chatbot is an AI-powered virtual assistant designed to provide efficient and concise customer support for e-commerce platforms. It leverages advanced language models to address customer inquiries with precision and clarity.
